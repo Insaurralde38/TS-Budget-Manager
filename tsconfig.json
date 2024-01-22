@@ -8,6 +8,5 @@
       "forceConsistentCasingInFileNames": true,  /* Disallow inconsistently-cased references to the same file. */
       "outDir": "./public/script"
     },
-    "include": ["src/**/*"],
-    "exclude": ["node_modules"]
+    "include": ["./src"]
 }
