@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "builds": [{ "src": "tsconfig.json", "use": "@now/static-build" }],
+  "routes": [
+    { "handle": "filesystem" },
+    { "src": "/public/(.*)", "dest": "/public/$1" },
+    { "src": "/(.*)", "dest": "/public/$1" }
+  ]
+}
