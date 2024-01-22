@@ -1,13 +1,12 @@
 {
-  "compilerOptions": {
-    "target": "es5",
-    "module": "commonjs",
-    "strict": true,
-    "esModuleInterop": true,
-    "skipLibCheck": true,
-    "forceConsistentCasingInFileNames": true,
-    "outDir": "./public/script"
-  },
-  "include": ["./Budget-Manager/src/**/*.ts"],
-  "exclude": ["node_modules"]
+    "compilerOptions": {
+      "target": "es5",
+      "module": "ES6",
+      "strict": true,
+      "esModuleInterop": true,
+      "skipLibCheck": true,
+      "forceConsistentCasingInFileNames": true,
+      "outDir": "./public/script"
+    },
+    "include": ["./src"]
 }
