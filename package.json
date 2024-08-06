@@ -1,0 +1,14 @@
+{
+  "name": "ts-budget-manager",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "tsc",
+    "start": "tsc && cp -r src/* public/script && cp public/index.html public/script/"
+  },
+  "dependencies": {
+    "sweetalert2": "^11.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
