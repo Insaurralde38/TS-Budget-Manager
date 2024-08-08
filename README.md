@@ -39,7 +39,7 @@ TS Budget Manager es una aplicación diseñada para ayudar a los usuarios a gest
 
 La aplicación está construida con HTML, CSS y TypeScript, y ofrece:
 
-**💸 Funcionalidades del Administrador de Presupuesto**
+**📍 Funcionalidades del Administrador de Presupuesto**
 
 - Registro de ingresos y gastos con descripción y monto.
 - Visualización del balance actual en tiempo real.
