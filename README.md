@@ -27,11 +27,23 @@
 
 </div>
 
-<br />
-
 TS Budget Manager es una aplicación diseñada para ayudar a los usuarios a gestionar sus presupuestos de manera eficiente. Permite registrar ingresos y gastos, así como visualizar el balance actual de manera clara y concisa. La interfaz es intuitiva y fácil de usar, proporcionando una experiencia de usuario agradable y productiva.
 
-<br />
+---
+
+<div align="center">
+
+## **📁 DETALLES**
+
+</div>
+
+La aplicación está construida con HTML, CSS y TypeScript, y ofrece:
+
+**💸 Funcionalidades del Administrador de Presupuesto**
+
+- Registro de ingresos y gastos con descripción y monto.
+- Visualización del balance actual en tiempo real.
+- Eliminación de entradas mediante confirmación visual.
 
 ---
 
@@ -40,8 +52,6 @@ TS Budget Manager es una aplicación diseñada para ayudar a los usuarios a gest
 ## **⚙️ INSTALACIÓN Y USO**
 
 </div>
-
-<br />
 
 Sigue estos pasos para ejecutar el proyecto de manera local:
 
@@ -66,31 +76,7 @@ Sigue estos pasos para ejecutar el proyecto de manera local:
 4. **Ejecutar el proyecto**:
    Usa una extensión como [Live Server](vscode:extension/ritwickdey.LiveServer) o [Live Preview](vscode:extension/ms-vscode.live-server) en Visual Studio Code para ejecutar el archivo `index.html`. Alternativamente, puedes usar cualquier servidor web local.
 
-<br />
-
 ---
-
-<div align="center">
-
-## **📁 DETALLES**
-
-</div>
-
-<br />
-
-La aplicación está construida con HTML, CSS y TypeScript, y ofrece:
-
-**💸 Funcionalidades del Administrador de Presupuesto**
-
-- Registro de ingresos y gastos con descripción y monto.
-- Visualización del balance actual en tiempo real.
-- Eliminación de entradas mediante confirmación visual.
-
-<br />
-
----
-
-<br />
 
 <div align="end">
 
