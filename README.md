@@ -5,7 +5,7 @@
 # Proyecto Personal | [**TS Budget Manager**](https://budget-manager-insa.vercel.app/)
 
 <p align="center">
-  <img src="https://www.ifec.org.hk/web/common/static/tools/static/2f8e1046450748685e28632de83d219f/ac54d/budget_planner_banner_1420.png" alt="Budget Manager Banner" />
+  <img src="https://www.ifec.org.hk/web/common/static/tools/static/2f8e1046450748685e28632de83d219f/ac54d/budget_planner_banner_1420.png" alt="TS Budget Manager Banner" />
 </p>
 
 <div align="center">
