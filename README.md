@@ -2,7 +2,7 @@
     <img src="./public/images/insa-logo.png" height="50" alt="Insa Logo">
 </p>
 
-# Proyecto Personal | [**TS Budget Manager**](https://budget-manager-insa.vercel.app/)
+# Proyecto Personal | [**TS Budget Manager**](https://ts-budget-manager-insa.vercel.app/)
 
 <p align="center">
   <img src="https://www.ifec.org.hk/web/common/static/tools/static/2f8e1046450748685e28632de83d219f/ac54d/budget_planner_banner_1420.png" alt="TS Budget Manager Banner" />
