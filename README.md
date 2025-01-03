@@ -14,7 +14,7 @@
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E46625?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-385BF4?style=flat-square&logo=css3)
+![CSS](https://img.shields.io/badge/-CSS-663399?style=flat-square&logo=css)
 [![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)](https://vercel.com/)
 
 </div>
